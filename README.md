@@ -20,8 +20,8 @@
 ## 🛠️ ワークショップ・ツール
 
 ### 1. メインツール
-- [Gemini (Google AI)](https://gemini.google.com/)
-- [NotebookLM](https://notebooklm.google.com/)
+- <a href="https://gemini.google.com/" target="_blank">Gemini (Google AI)</a>
+- <a href="https://notebooklm.google.com/" target="_blank">NotebookLM</a>
 
 ### 2. 資料・リソース（順次追加）
 - [ ] 中学校学習指導要領（美術）PDF
