@@ -25,13 +25,11 @@
 - <a href="https://johnnymaeta.github.io/kirokukunneo/" target="_blank">スーパー記録くん</a>
 
 ### 2. 資料・リソース（順次追加）
-- [x] <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1387016.htm" target="_blank">中学校学習指導要領（美術）</a>
-- [ ] 授業プラン作成用プロンプト・テンプレート
-- [ ] ルーブリック作成用プロンプト・テンプレート
-- [ ] Googleフォーム変換用スクリプト/ツール
+-  <a href="https://www.mext.go.jp/a_menu/shotou/new-cs/1387016.htm" target="_blank">中学校学習指導要領</a>
+-  <a href="https://docs.google.com/document/d/1mCnWumizHGcCY5EIYgMHwa-EptVDhL3FtnKrNJGs9NM/edit?usp=sharing" target="_blank">プロンプト等</a>
 
 ---
 
 ## 💡 本日の重要ポイント
-- **「チート」ではなく「コーチング」**: 画像生成に頼らず、AIとの「対話」を通じて生徒の思考を深める方法を探ります。
+- **「チート」ではなく「コーチング」**: AIとの「対話」を通じて生徒の思考を深める方法を探ります。
 - **一気通貫の設計**: 前半に作った「指導案」を、後半の「伴走Gem」の脳（指示文）としてそのまま活用します。
