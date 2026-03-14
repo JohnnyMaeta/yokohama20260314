@@ -20,7 +20,7 @@
 ## 🛠️ ワークショップ・ツール
 
 ### 1. メインツール
-- <a href="https://padlet.com/kumaya77/padlet-4ubvtn63umtmle3n” target="_blank">Padlet</a>　
+- <a href="https://padlet.com/kumaya77/padlet-4ubvtn63umtmle3n" target="_blank">Padlet</a>　
 - <a href="https://gemini.google.com/" target="_blank">Gemini (Google AI)</a>
 - <a href="https://notebooklm.google.com/" target="_blank">NotebookLM</a>
 - <a href="https://johnnymaeta.github.io/kirokukunneo/" target="_blank">スーパー記録くん</a>
